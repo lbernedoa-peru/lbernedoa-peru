@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Conecta conmigo
-- 💼 LinkedIn: (tu enlace aquí)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: www.linkedin.com/in/luis-bernedo
+- 📧 Email: luisbernedo0@gmail.com
 
 ---
 
