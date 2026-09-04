@@ -8,25 +8,18 @@
 
 ---
 
-## 📊 Estadísticas y Actividad
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lbernedoa-peru&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbernedoa-peru&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 📊 Mi Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lbernedoa-peru&theme=react-dark&hide_border=true&custom_title=Actividad%20de%20Contribuci%C3%B3n" alt="Activity Graph" onerror="this.style.display='none'"/>
+  <a href="https://github.com/lbernedoa-peru">
+    <img src="https://github-readme-stats.vercel.app/api?username=lbernedoa-peru&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <em>📊 Si no ves las estadísticas, asegúrate de tener repositorios públicos o espera 24h</em>
+  <a href="https://github.com/lbernedoa-peru">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbernedoa-peru&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
