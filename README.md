@@ -8,19 +8,18 @@
 
 ---
 
-## 📊 Mi Actividad
+## 📊 Estadísticas y Actividad
 
-<p align="center">
-  <a href="https://github.com/lbernedoa-peru">
-    <img src="https://github-readme-stats.vercel.app/api?username=lbernedoa-peru&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lbernedoa-peru">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbernedoa-peru&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=lbernedoa-peru&theme=dracula&hide_border=true" alt="Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbernedoa-peru&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
