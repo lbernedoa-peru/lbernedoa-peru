@@ -1,28 +1,42 @@
-# 👋 Hola, soy Luis Bernedo  
+# 👋 Hola, soy Luis Bernedo
 
-🎓 Estudiante de Ingeniería de Software con enfoque en Inteligencia Artificial  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Ingeniero+de+Software+en+formación;Apasionado+por+la+IA+y+el+Desarrollo+Web;Creando+soluciones+escalables+y+útiles)
+
+🎓 Estudiante de Ingeniería de Software con enfoque en **Inteligencia Artificial**  
 💡 Apasionado por la tecnología, el desarrollo y la creación de soluciones útiles  
-🚀 Enfocado en IA, desarrollo web y software escalable  
+🚀 Enfocado en IA, desarrollo web full-stack y software escalable  
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas y Actividad
 
-![Streak](https://streak-stats.demolab.com?user=lbernedoa-peru&theme=dracula&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=lbernedoa-peru&theme=dracula&hide_border=true" alt="Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbernedoa-peru&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=lbernedoa-peru&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lbernedoa-peru&theme=dracula&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
 ## 🧠 Sobre mí
-- 📚 Aprendiendo **Machine Learning** y **Deep Learning**
-- 💻 Construyendo proyectos en Python y desarrollo web
-- 🔍 Interesado en IA aplicada y automatización
-- 🚀 Siempre mejorando mis habilidades como desarrollador
+
+- 📚 **Actualmente aprendiendo:** Machine Learning, Deep Learning y arquitecturas escalables.
+- 💻 **Enfoque práctico:** Construyo proyectos integrando Python, desarrollo web y automatización.
+- 🔍 **Interés principal:** IA aplicada a problemas reales y optimización de procesos.
+- 🌱 **Filosofía:** Siempre mejorando, escribiendo código limpio y aprendiendo de la comunidad.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,16 +44,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Herramientas
+### ⚙️ Herramientas y Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🚀 Frameworks y Librerías
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -47,24 +58,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![AdminLTE](https://img.shields.io/badge/AdminLTE-001A33?style=for-the-badge&logo=adminlte&logoColor=white)
 
-### 🤖 IA / Data
+### 🤖 IA y Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lbernedoa-peru&theme=dracula&hide_border=true"/>
-</p>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 📫 Conecta conmigo
-- 💼 LinkedIn: www.linkedin.com/in/luis-bernedo
-- 📧 Email: luisbernedo0@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-bernedo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisbernedo0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lbernedoa-peru)
 
 ---
 
-⭐ *Construyendo el futuro con código y aprendizaje constante*
+<p align="center">
+  <em>⭐ Construyendo el futuro con código y aprendizaje constante</em>
+</p>
