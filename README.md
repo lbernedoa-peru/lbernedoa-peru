@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Bernedo
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Ingeniero+de+Software+en+formación;Apasionado+por+la+IA+y+el+Desarrollo+Web;Creando+soluciones+escalables+y+útiles)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&left=true&vCenter=true&width=600&lines=Ingeniero+de+Software+en+formación;Apasionado+por+la+IA+y+el+Desarrollo+Web;Creando+soluciones+escalables+y+útiles)
 
 🎓 Estudiante de Ingeniería de Software con enfoque en **Inteligencia Artificial**  
 💡 Apasionado por la tecnología, el desarrollo y la creación de soluciones útiles  
